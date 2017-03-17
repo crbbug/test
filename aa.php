@@ -1,4 +1,5 @@
-sadd
-asda
-asd:
+<?php
+
+
+phpinfo();
 
